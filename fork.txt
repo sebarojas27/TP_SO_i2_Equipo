@@ -7,6 +7,9 @@ GAMMA
 
 ip: 192.168.56.1
 Time: 13:11
-ALFA
-BETA
-GAMMA
+nombre y apellido: Enzo Vargas
+ip:191.85.30.3
+hora:12:22
+
+ip: 192.168.56.1
+Time: 14:03
