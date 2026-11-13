@@ -27,7 +27,6 @@ beta:
 c- Si, gamma puede actualizar su fork incorporando los cambios realizados por alfa. Para eso deberia integrar los cambios del repoisitorio
 de alfa en su propio repositorio.
 d- No necesariamente. Los cambios propios se conservan al actualizar el fork correctamente. Si existen conflictos, deben resolverse manualmente para conservar los cambios que correspondan.
->>>>>>> 943657552a5945a1c80642b279392dfe6d2b74ee
 
 Alfa:
 
