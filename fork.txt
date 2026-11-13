@@ -1,7 +1,7 @@
 Archivo del trabajo practico de Sistemas Operativos.
 
 Integrantes:
-ALFA
+ALFA: Imanol Zavalaga
 BETA
 GAMMA
 nombre y apellido: Enzo Vargas
