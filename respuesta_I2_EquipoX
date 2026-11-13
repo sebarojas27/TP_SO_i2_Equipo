@@ -16,3 +16,8 @@ git remote add gamma https://github.com/EnzoVargaSa/TP_SO_i2_Equipo.git
 git fetch gamma
 git merge gamma/main
 O yo le puedo mandar un Pull Request a su repo y el lo acepta con Merge.
+
+beta: 
+c- Si, gamma puede actualizar su fork incorporando los cambios realizados por alfa. Para eso deberia integrar los cambios del repoisitorio
+de alfa en su propio repositorio.
+d- No necesariamente. Los cambios propios se conservan al actualizar el fork correctamente. Si existen conflictos, deben resolverse manualmente para conservar los cambios que correspondan.
