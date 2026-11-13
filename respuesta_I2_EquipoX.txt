@@ -2,28 +2,6 @@ Sebastian Rojas
 Imanol savalaga
 Enzo vargas
 
-<<<<<<< HEAD
-
-Alfa:
-
--git clone (enlace de Beta) / git Pull
-
--git init (en la carpeta)
-
-ls
-
--git remote add origin (enlace del fork)
-
-Modificamos los archivos
-
-git add .
-
-git commit -m "agregando la modificación"
-
-git status
-
-git push
-
 ----------------------------
 
 Imanol Zavalaga
