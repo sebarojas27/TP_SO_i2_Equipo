@@ -1,3 +1,18 @@
 Sebastian Rojas
 Imanol savalaga
 Enzo vargas
+
+gamma:
+a- Para actualizar mi FORK uso:
+git remote add upstream https://github.com/sebarojas27/TP_SO_i2_Equipo.git
+git fetch upstream
+git merge upstream/main
+
+Con fetch traigo lo nuevo y con merge lo mezclo con mi copia. Tambien puedo usar git pull upstream main o el boton Sync fork en GitHub.
+
+b- Si, ALFA puede actualizar su FORK al estado de mi FORK de GAMMA.
+Tiene que agregar mi FORK como remoto:
+git remote add gamma https://github.com/EnzoVargaSa/TP_SO_i2_Equipo.git
+git fetch gamma
+git merge gamma/main
+O yo le puedo mandar un Pull Request a su repo y el lo acepta con Merge.
