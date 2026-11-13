@@ -1,0 +1,4 @@
+Nuevo dato del trabajo practico. 
+
+integrante: BETA
+Repositorio: TP_SO_i2_Equipo
