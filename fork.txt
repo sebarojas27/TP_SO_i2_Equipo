@@ -7,3 +7,6 @@ GAMMA
 
 ip: 192.168.56.1
 Time: 13:11
+ALFA
+BETA
+GAMMA
